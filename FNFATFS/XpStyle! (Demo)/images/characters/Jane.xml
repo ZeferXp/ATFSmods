@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jane.png">
+<SubTexture name="Jane Idle0000" x="3054" y="1635" width="1006" height="1526" frameX="-34" frameY="-251" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0001" x="0" y="4728" width="913" height="1509" frameX="-129" frameY="-268" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0002" x="2615" y="4728" width="837" height="1491" frameX="-208" frameY="-286" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0003" x="5126" y="4728" width="837" height="1474" frameX="-211" frameY="-303" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0004" x="4289" y="4728" width="837" height="1481" frameX="-210" frameY="-296" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0005" x="3452" y="4728" width="837" height="1487" frameX="-209" frameY="-290" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0006" x="1778" y="4728" width="837" height="1494" frameX="-208" frameY="-283" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0007" x="913" y="4728" width="865" height="1500" frameX="-179" frameY="-277" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0008" x="4186" y="3202" width="902" height="1507" frameX="-141" frameY="-270" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0009" x="6225" y="3042" width="938" height="1513" frameX="-104" frameY="-264" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0010" x="6225" y="1522" width="972" height="1520" frameX="-69" frameY="-257" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Idle0011" x="0" y="3202" width="1006" height="1526" frameX="-34" frameY="-251" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Up0000" x="1006" y="3202" width="1010" height="1526" frameX="-83" frameY="-251" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Down0000" x="2016" y="3202" width="1126" height="1526" frameX="-34" frameY="-251" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Left0000" x="3142" y="3202" width="1044" height="1526" frameX="-142" frameY="-251" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Right0000" x="5091" y="0" width="1134" height="1526" frameX="-34" frameY="-251" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0000" x="5091" y="1526" width="1006" height="1526" frameX="-34" frameY="-251" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0001" x="6225" y="0" width="1000" height="1522" frameX="-38" frameY="-256" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0002" x="2040" y="1635" width="1014" height="1549" frameX="-35" frameY="-260" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0003" x="3074" y="0" width="996" height="1575" frameX="-32" frameY="-228" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0004" x="2035" y="0" width="1039" height="1586" frameX="-11" frameY="-230" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0005" x="1015" y="0" width="1020" height="1631" frameX="-69" frameY="-194" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0006" x="0" y="0" width="1015" height="1635" frameX="-20" frameY="-231" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0007" x="0" y="1635" width="1030" height="1567" frameX="-30" frameY="-226" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0008" x="1030" y="1635" width="1010" height="1566" frameX="-38" frameY="-225" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0009" x="4070" y="0" width="1021" height="1532" frameX="-33" frameY="-241" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0010" x="4070" y="1532" width="1010" height="1532" frameX="-32" frameY="-247" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="Jane Miss0011" x="5091" y="3052" width="1006" height="1526" frameX="-34" frameY="-251" frameWidth="1214" frameHeight="2160" />
+</TextureAtlas>

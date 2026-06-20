@@ -1,0 +1,9 @@
+{
+	"name": "FNFATFS",
+	"description": "FNFATFS (Friday Night Funkin' And The Funni Stuff) is a mod developed by Zefer Xp, the group called TIaFG (formally called This Isn't a Furry Gang frfr Trust), Dinky Ron, the MofTh7 Gang, some members of the Determined Crew, The BlueBerry Gangstas, JamieProJects, The JacobAdventure Team and the rest of the FNFATFS Team, solely developed by Zefer Xp, this combines several modpacks Zefer has worked on into one big modpack, this includes FNF:ATFS (Vs. Zefer), TPM (TrumpetDude, Pico Miku), Vs. JamieProJects, Vs. Smelly0no, Witheld Secrets (Pretty much what makes up Remix Week), Vs. Zefer, Making a random fnf mod ‘cause why not, I made ANOTHER FNF mod (scrapped concept) and FNF:JA++ (FNF: Jacob Adventure++)",
+	"restart": true,
+	"runsGlobally": true,
+	"color": [255, 112, 243],
+	"discordRPC": "1486630101968748574",
+	"iconFramerate": 10
+}

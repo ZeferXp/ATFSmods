@@ -1,0 +1,41 @@
+{
+	"events": [
+		[
+			20869.5652173913,
+			[
+				["Change Character", "miku", "pico"]
+			]
+		],
+		[
+			24239.1304347826,
+			[
+				["Change Character", "pico", "trumpetdude"]
+			]
+		],
+		[
+			135652.173913043,
+			[
+				["Change Character", "trumpetdude", "pico"]
+			]
+		],
+		[
+			135652.173913043,
+			[
+				["Change Character", "miku", "pico"]
+			]
+		],
+		[
+			142608.695652174,
+			[
+				["Change Character", "pico", "trumpetdude"]
+			]
+		],
+		[
+			149565.217391304,
+			[
+				["Change Character", "miku", "trumpetdude"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

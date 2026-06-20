@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [43, 74],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "TwitnessAPK Idle"
+		},
+		{
+			"offsets": [43, 74],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "TwitnessAPK Left"
+		},
+		{
+			"offsets": [43, 74],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "TwitnessAPK Down"
+		},
+		{
+			"offsets": [43, 74],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "TwitnessAPK Up"
+		},
+		{
+			"offsets": [43, 27],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "TwitnessAPK Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/TwitnessAPK",
+	"position": [-620, -520],
+	"healthicon": "twitnessapk",
+	"flip_x": true,
+	"healthbar_colors": [126, 7, 183],
+	"camera_position": [140, -10],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "singRIGHTmiss",
+			"fps": 6,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "singUPmiss",
+			"fps": 6,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "singDOWNmiss",
+			"fps": 6,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "idle",
+			"fps": 6,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "singDOWN",
+			"fps": 3,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [385, 105],
+			"anim": "scared",
+			"fps": 6,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "singLEFTmiss",
+			"fps": 6,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "singLEFT",
+			"fps": 6,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [385, 105],
+			"anim": "singRIGHT",
+			"fps": 6,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "VVV",
+	"no_antialiasing": false,
+	"image": "characters/Violet",
+	"position": [0, 0],
+	"healthicon": "violet",
+	"flip_x": true,
+	"healthbar_colors": [170, 0, 255],
+	"camera_position": [90, 180],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": true
+}

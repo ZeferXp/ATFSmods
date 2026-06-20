@@ -1,0 +1,45 @@
+{
+	"storyName": "remix 0w0",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Ron",
+			"ron",
+			[
+				255,
+				255,
+				75
+			]
+		],
+		[
+			"Gospel",
+			"xpsjr",
+			[
+				246,
+				93,
+				253
+			]
+		],
+		[
+			"Onslaught",
+			"bob",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "XpSjr",
+	"hiddenUntilUnlocked": false
+}

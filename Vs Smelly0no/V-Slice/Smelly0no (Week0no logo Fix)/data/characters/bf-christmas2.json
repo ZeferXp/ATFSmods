@@ -1,0 +1,240 @@
+{
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"applyStageMatrix": false,
+	"scale": 1,
+	"flipX": true,
+	"name": "Boyfriend (Christmas)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "bf",
+		"flipX": false
+	},
+	"assetPath": "characters/bfChristmas",
+	"atlasSettings": {
+		"applyStageMatrix": false,
+		"useRenderTexture": false,
+		"filterQuality": 1,
+		"cacheOnLoad": false,
+		"swfMode": true
+	},
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				-2,
+				5
+			],
+			"frameRate": 24,
+			"prefix": "BF HEY!!",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "hey"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "BF idle dance",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-38,
+				-6
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE LEFT0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE DOWN0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				1,
+				27
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE UP0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				32,
+				-7
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE RIGHT0",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-10,
+				-50
+			],
+			"prefix": "bf swear down",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN-censor",
+			"flipY": false,
+			"assetPath": "characters/bfChristmas_Censored",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-38,
+				-7
+			],
+			"prefix": "bf swear right",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT-censor",
+			"flipY": false,
+			"assetPath": "characters/bfChristmas_Censored",
+			"frameRate": 24
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				12,
+				24
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE LEFT MISS",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-11,
+				-19
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE DOWN MISS",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-29,
+				27
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE UP MISS",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-30,
+				21
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE RIGHT MISS",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"offsets": [
+				-37,
+				11
+			],
+			"prefix": "BF dies",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "firstDeath",
+			"flipY": false,
+			"assetPath": "characters/BOYFRIEND",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-37,
+				5
+			],
+			"prefix": "BF Dead Loop",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "deathLoop",
+			"looped": true,
+			"flipY": false,
+			"assetPath": "characters/BOYFRIEND",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-37,
+				69
+			],
+			"prefix": "BF Dead confirm",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "deathConfirm",
+			"flipY": false,
+			"assetPath": "characters/BOYFRIEND",
+			"frameRate": 24
+		}
+	]
+}

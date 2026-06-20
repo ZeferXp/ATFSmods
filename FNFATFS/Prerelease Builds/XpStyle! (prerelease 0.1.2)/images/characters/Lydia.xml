@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lydia.png">
+<SubTexture name="Lydia Idle0000" x="0" y="0" width="426" height="831" frameX="-330" frameY="-150" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Idle0001" x="426" y="0" width="427" height="826" frameX="-330" frameY="-155" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Idle0002" x="853" y="0" width="428" height="821" frameX="-330" frameY="-161" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Idle0003" x="1281" y="0" width="429" height="815" frameX="-330" frameY="-166" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Idle0004" x="1710" y="0" width="432" height="821" frameX="-330" frameY="-161" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Idle0005" x="0" y="831" width="434" height="826" frameX="-330" frameY="-155" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Up0000" x="0" y="0" width="426" height="831" frameX="-330" frameY="-150" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Up0001" x="434" y="831" width="423" height="826" frameX="-335" frameY="-155" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Up0002" x="857" y="831" width="420" height="820" frameX="-339" frameY="-161" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Down0000" x="0" y="0" width="426" height="831" frameX="-330" frameY="-150" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Down0001" x="1277" y="831" width="453" height="820" frameX="-327" frameY="-162" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Down0002" x="1730" y="831" width="479" height="806" frameX="-325" frameY="-176" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Right0000" x="0" y="0" width="426" height="831" frameX="-330" frameY="-150" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Right0001" x="0" y="1657" width="435" height="820" frameX="-332" frameY="-162" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Right0002" x="435" y="1657" width="442" height="806" frameX="-334" frameY="-176" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Left0000" x="0" y="0" width="426" height="831" frameX="-330" frameY="-150" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Left0001" x="877" y="1657" width="430" height="820" frameX="-320" frameY="-162" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="Lydia Left0002" x="1307" y="1657" width="434" height="806" frameX="-309" frameY="-176" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>

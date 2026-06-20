@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kirbyjumper.png">
+<SubTexture name="kirbyjumper down0000" x="1228" y="948" width="1328" height="898" frameX="0" frameY="0" frameWidth="1328" frameHeight="898" />
+<SubTexture name="kirbyjumper idle0000" x="0" y="1862" width="1386" height="872" frameX="0" frameY="0" frameWidth="1386" frameHeight="872" />
+<SubTexture name="kirbyjumper left0000" x="0" y="948" width="1228" height="914" frameX="0" frameY="0" frameWidth="1228" frameHeight="914" />
+<SubTexture name="kirbyjumper right0000" x="0" y="0" width="1532" height="948" frameX="0" frameY="0" frameWidth="1532" frameHeight="948" />
+<SubTexture name="kirbyjumper up0000" x="1532" y="0" width="1572" height="936" frameX="0" frameY="0" frameWidth="1572" frameHeight="936" />
+</TextureAtlas>

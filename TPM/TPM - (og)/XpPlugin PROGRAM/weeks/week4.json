@@ -1,0 +1,27 @@
+{
+	"storyName": "You want teto? you get teto.",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Bad_Apple-Again",
+			"teto",
+			[
+				255,
+				53,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"teto",
+		"miku",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

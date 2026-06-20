@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Xp.png">
+<SubTexture name="Xp Idle0000" x="0" y="0" width="291" height="458" frameX="-198" frameY="-30" frameWidth="640" frameHeight="480" />
+<SubTexture name="Xp Idle0001" x="291" y="0" width="302" height="450" frameX="-187" frameY="-38" frameWidth="640" frameHeight="480" />
+<SubTexture name="Xp Left0000" x="593" y="0" width="328" height="442" frameX="-173" frameY="-44" frameWidth="640" frameHeight="480" />
+<SubTexture name="Xp Left0001" x="0" y="458" width="323" height="442" frameX="-178" frameY="-44" frameWidth="640" frameHeight="480" />
+<SubTexture name="Xp Right0000" x="323" y="458" width="285" height="450" frameX="-206" frameY="-38" frameWidth="640" frameHeight="480" />
+<SubTexture name="Xp Right0001" x="608" y="458" width="294" height="451" frameX="-200" frameY="-38" frameWidth="640" frameHeight="480" />
+<SubTexture name="Xp Down0000" x="0" y="909" width="330" height="451" frameX="-170" frameY="-38" frameWidth="640" frameHeight="480" />
+<SubTexture name="Xp Down0001" x="330" y="909" width="350" height="450" frameX="-159" frameY="-43" frameWidth="640" frameHeight="480" />
+<SubTexture name="Xp Up0000" x="680" y="909" width="378" height="451" frameX="-163" frameY="-38" frameWidth="640" frameHeight="480" />
+<SubTexture name="Xp Up0001" x="0" y="1360" width="436" height="462" frameX="-136" frameY="-29" frameWidth="640" frameHeight="480" />
+</TextureAtlas>

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Kaido",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "Is this a Cancer?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Nah shitty egg ahh whiny bitch Magalor gay maid ahh dumbass."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Kaido",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "That make me sad"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sowwy"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Kaido",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "Lets go do some cool thingy called wrap battling"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "wha.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Kaido",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "I- I mean Rap battling"
+		}
+	]
+}

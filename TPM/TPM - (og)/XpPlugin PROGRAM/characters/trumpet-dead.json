@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [1105, 554],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "dead trumpet dude idle"
+		},
+		{
+			"offsets": [1106, 554],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "dead trumpet dude idle"
+		},
+		{
+			"offsets": [1105, 554],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": true,
+			"name": "dead trumpet dude idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dead trumpet dude",
+	"position": [-950, -420],
+	"healthicon": "trumpetdude",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 0],
+	"camera_position": [-120, 0],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": true
+}

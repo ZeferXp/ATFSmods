@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"The House",
+			"enemy",
+			[
+				75,
+				60,
+				195
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "The hsdidoho house",
+	"weekName": "The House",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

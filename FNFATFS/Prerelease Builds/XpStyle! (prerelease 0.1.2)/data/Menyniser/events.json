@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"",
+						"5"
+					]
+				]
+			],
+			[
+				7400,
+				[
+					[
+						"Play Sound",
+						"Kaido",
+						"1"
+					],
+					[
+						"Hey!",
+						"BF",
+						""
+					],
+					[
+						"Set GF Speed",
+						"4",
+						""
+					],
+					[
+						"Dadbattle Spotlight",
+						"3",
+						""
+					]
+				]
+			]
+		]
+	}
+}

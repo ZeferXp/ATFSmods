@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		210,
+		180
+	],
+	"scale": 4.1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "TrumpetDude Idle",
+			"idle_name": "TrumpetDude Idle0000"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "TrumpetDude Right",
+			"idle_name": "TrumpetDude Idle0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "TrumpetDude Miss",
+			"idle_name": "TrumpetDude Miss"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "TrumpetDude Up",
+			"idle_name": "TrumpetDude Up"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "TrumpetDude Down",
+			"loop_name": "TrumpetDude Down"
+		}
+	],
+	"image": "Trumpetdude"
+}

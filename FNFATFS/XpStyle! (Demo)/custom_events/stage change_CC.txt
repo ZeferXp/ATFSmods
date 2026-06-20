@@ -1,0 +1,1 @@
+value 1: stage1 = White, stage2 = void, stage3 = pudgepentpaul, black = NOTHING.

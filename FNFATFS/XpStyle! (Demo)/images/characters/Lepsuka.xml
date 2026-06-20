@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tem.png">
+<SubTexture name="Tem Idle0000" x="0" y="0" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+<SubTexture name="Tem Up0000" x="160" y="0" width="105" height="180" frameX="-30" frameY="0" frameWidth="160" frameHeight="180" />
+<SubTexture name="Tem Down0000" x="0" y="180" width="160" height="91" frameX="0" frameY="-69" frameWidth="160" frameHeight="160" />
+<SubTexture name="Tem Left0000" x="160" y="180" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+<SubTexture name="Tem Right0000" x="0" y="340" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+</TextureAtlas>

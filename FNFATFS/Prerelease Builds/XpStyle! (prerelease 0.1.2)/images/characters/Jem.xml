@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jem.png">
+<SubTexture name="Jem Up0000" x="0" y="1008" width="476" height="1007" frameX="-181" frameY="-97" frameWidth="899" frameHeight="1181" />
+<SubTexture name="Jem Up0001" x="0" y="0" width="480" height="1008" frameX="-177" frameY="-97" frameWidth="899" frameHeight="1181" />
+<SubTexture name="Jem Left0000" x="476" y="1008" width="476" height="1007" frameX="-181" frameY="-97" frameWidth="899" frameHeight="1181" />
+<SubTexture name="Jem Left0001" x="480" y="0" width="480" height="1008" frameX="-177" frameY="-97" frameWidth="899" frameHeight="1181" />
+<SubTexture name="Jem Right0000" x="952" y="1008" width="476" height="1007" frameX="-181" frameY="-97" frameWidth="899" frameHeight="1181" />
+<SubTexture name="Jem Right0001" x="960" y="0" width="480" height="1008" frameX="-177" frameY="-97" frameWidth="899" frameHeight="1181" />
+<SubTexture name="Jem Idle0000" x="1904" y="1008" width="476" height="1007" frameX="-181" frameY="-97" frameWidth="899" frameHeight="1181" />
+<SubTexture name="Jem Idle0001" x="1920" y="0" width="480" height="1008" frameX="-177" frameY="-97" frameWidth="899" frameHeight="1181" />
+<SubTexture name="Jem Down0000" x="1428" y="1008" width="476" height="1007" frameX="-181" frameY="-97" frameWidth="899" frameHeight="1181" />
+<SubTexture name="Jem Down0001" x="1440" y="0" width="480" height="1008" frameX="-177" frameY="-97" frameWidth="899" frameHeight="1181" />
+</TextureAtlas>

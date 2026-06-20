@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "what.",
+			"text": "What am I DOING HERE!?!?!?!?",
+			"boxState": "angry",
+			"sound": "angry",
+			"speed": 0.05,
+			"portrait": "miku"
+		},
+		{
+			"expression": "pissed",
+			"text": "You're in purgatory BITCH",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "let me out.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "miku"
+		},
+		{
+			"expression": "talk",
+			"text": "no",
+			"boxState": "normal",
+			"sound": "Deltarunetext",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "wherrreeeee areeeeee yoouuuuu mikkuuuuu??? ??????????????????????????????????? ??????????????????????????????????? ??????????????????????????????????? ?????????? This text you cannot see ",
+			"boxState": "normal",
+			"sound": "voice_undertale_goatboy",
+			"speed": 0.05,
+			"portrait": "trumpetdude"
+		},
+		{
+			"expression": "excited",
+			"text": "right here",
+			"boxState": "normal",
+			"sound": "Deltarunetext",
+			"speed": 0.11,
+			"portrait": "miku"
+		},
+		{
+			"expression": "talk",
+			"text": "idiot, you aren't alive anymore. they can't hear you",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "what.",
+			"text": "I'm leaving",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "miku"
+		},
+		{
+			"expression": "confused",
+			"text": "fine.....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Win the rap battle then you can get revived",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"storyName": "Dear Nillia, This shit is in development, stop eating my files.",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Nyctophobia",
+			"Enemy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Relife",
+			"zefer",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Pluey Week"
+}

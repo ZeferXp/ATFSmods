@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-20,
+		-170
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-8
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "gfDance0000",
+			"idle_name": "gfDance0006"
+		},
+		{
+			"loop_offsets": [
+				13,
+				-14
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "gfDance0018",
+			"idle_name": "gfDance0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gfDance0020",
+			"idle_name": "gfDance0020"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "gfDance",
+			"idle_name": "gfDance0000"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "gfDance0000",
+			"loop_name": "gfDance0000"
+		}
+	],
+	"image": "Rez"
+}

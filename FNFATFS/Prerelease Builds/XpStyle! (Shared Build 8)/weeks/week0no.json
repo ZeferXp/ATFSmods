@@ -1,0 +1,45 @@
+{
+	"storyName": "Week 0h no!",
+	"difficulties": "Normal, ContentFarmed, Rr",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"LifeLife",
+			"Smelly0no",
+			[
+				226,
+				0,
+				0
+			]
+		],
+		[
+			"YesSay",
+			"Smelly0no",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"2slice",
+			"Smelly0no",
+			[
+				253,
+				232,
+				113
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "0no0no"
+}

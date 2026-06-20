@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="XpSjr.png">
+<SubTexture name="XpSjr right0000" x="0" y="1692" width="460" height="540" frameX="-177" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr right0001" x="0" y="1692" width="460" height="540" frameX="-177" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr right0002" x="460" y="1692" width="488" height="540" frameX="-139" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr right0003" x="948" y="1692" width="517" height="540" frameX="-101" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr right0004" x="1053" y="0" width="514" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr left0000" x="1465" y="1692" width="477" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr left0001" x="1465" y="1692" width="477" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr left0002" x="0" y="2232" width="473" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr left0003" x="1053" y="0" width="514" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr down0000" x="1057" y="1116" width="553" height="432" frameX="-63" frameY="-163" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr down0001" x="1057" y="1116" width="553" height="432" frameX="-63" frameY="-163" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr down0002" x="1610" y="1116" width="571" height="411" frameX="-63" frameY="-184" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr down0003" x="473" y="2232" width="555" height="475" frameX="-63" frameY="-120" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr down0004" x="1028" y="2232" width="532" height="507" frameX="-63" frameY="-88" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr down0005" x="1053" y="0" width="514" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr up0000" x="1057" y="540" width="528" height="576" frameX="-58" frameY="-26" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr up0001" x="1585" y="540" width="529" height="576" frameX="-62" frameY="-20" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr up0002" x="0" y="1116" width="522" height="576" frameX="-67" frameY="-23" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr up0003" x="522" y="1116" width="535" height="558" frameX="-60" frameY="-36" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr up0004" x="1053" y="0" width="514" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr idle0000" x="0" y="0" width="527" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr idle0001" x="527" y="0" width="526" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr idle0002" x="1053" y="0" width="514" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr idle0003" x="1567" y="0" width="532" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr idle0004" x="0" y="540" width="538" height="540" frameX="-63" frameY="-55" frameWidth="640" frameHeight="640" />
+<SubTexture name="XpSjr idle0005" x="538" y="540" width="519" height="541" frameX="-61" frameY="-54" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

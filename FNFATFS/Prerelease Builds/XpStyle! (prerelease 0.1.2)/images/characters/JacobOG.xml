@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JacobOG.png">
+<SubTexture name="JacobOG idle0000" x="0" y="0" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG idle0001" x="664" y="0" width="667" height="1072" frameX="-226" frameY="-22" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG idle0002" x="1331" y="0" width="670" height="1070" frameX="-222" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG idle0003" x="2001" y="0" width="673" height="1066" frameX="-218" frameY="-29" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG idle0004" x="2674" y="0" width="675" height="1065" frameX="-215" frameY="-32" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG idle0005" x="3349" y="0" width="678" height="1061" frameX="-211" frameY="-36" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG idle0006" x="4027" y="0" width="674" height="1066" frameX="-217" frameY="-30" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG idle0007" x="4701" y="0" width="669" height="1070" frameX="-224" frameY="-24" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG idle0008" x="0" y="0" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG up0000" x="5370" y="0" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG up0001" x="6034" y="0" width="681" height="1072" frameX="-220" frameY="-14" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG up0002" x="6715" y="0" width="691" height="1069" frameX="-210" frameY="-9" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG up0003" x="0" y="1076" width="698" height="1066" frameX="-202" frameY="-5" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG up0004" x="698" y="1076" width="702" height="1064" frameX="-195" frameY="0" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG down0000" x="1400" y="1076" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG down0001" x="2064" y="1076" width="670" height="1072" frameX="-227" frameY="-22" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG down0002" x="2734" y="1076" width="676" height="1070" frameX="-225" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG down0003" x="3410" y="1076" width="682" height="1066" frameX="-221" frameY="-29" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG down0004" x="4092" y="1076" width="689" height="1065" frameX="-217" frameY="-32" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG down0005" x="4781" y="1076" width="696" height="1061" frameX="-213" frameY="-36" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG r0000" x="5477" y="1076" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG r0001" x="6141" y="1076" width="646" height="1072" frameX="-219" frameY="-21" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG r0002" x="6787" y="1076" width="648" height="1069" frameX="-208" frameY="-23" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG r0003" x="0" y="2152" width="654" height="1064" frameX="-197" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG r0004" x="654" y="2152" width="660" height="1059" frameX="-187" frameY="-28" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG r0005" x="1314" y="2152" width="665" height="1054" frameX="-177" frameY="-30" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG l0000" x="5477" y="1076" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG l0001" x="1979" y="2152" width="614" height="1074" frameX="-247" frameY="-21" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG l0002" x="2593" y="2152" width="614" height="1075" frameX="-242" frameY="-23" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG l0003" x="3207" y="2152" width="615" height="1076" frameX="-236" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG l0004" x="3822" y="2152" width="617" height="1077" frameX="-230" frameY="-28" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG l0005" x="4439" y="2152" width="617" height="1078" frameX="-225" frameY="-30" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missup0000" x="5056" y="2152" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missup0001" x="5720" y="2152" width="681" height="1072" frameX="-220" frameY="-14" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missup0002" x="6401" y="2152" width="691" height="1069" frameX="-210" frameY="-9" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missup0003" x="0" y="3230" width="698" height="1065" frameX="-202" frameY="-5" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missup0004" x="698" y="3230" width="702" height="1064" frameX="-195" frameY="0" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missdown0000" x="1400" y="3230" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missdown0001" x="2064" y="3230" width="670" height="1072" frameX="-227" frameY="-22" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missdown0002" x="2734" y="3230" width="675" height="1069" frameX="-225" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missdown0003" x="3409" y="3230" width="682" height="1066" frameX="-221" frameY="-29" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missdown0004" x="4091" y="3230" width="689" height="1064" frameX="-217" frameY="-32" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missdown0005" x="4780" y="3230" width="696" height="1061" frameX="-213" frameY="-36" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missr0000" x="5476" y="3230" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missr0001" x="6140" y="3230" width="646" height="1072" frameX="-219" frameY="-21" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missr0002" x="6786" y="3230" width="648" height="1068" frameX="-208" frameY="-23" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missr0003" x="0" y="4306" width="654" height="1063" frameX="-197" frameY="-26" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missr0004" x="654" y="4306" width="659" height="1059" frameX="-187" frameY="-28" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missr0005" x="1313" y="4306" width="665" height="1054" frameX="-177" frameY="-30" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missl0000" x="5476" y="3230" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missl0001" x="1978" y="4306" width="614" height="1073" frameX="-247" frameY="-21" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missl0002" x="2592" y="4306" width="614" height="1074" frameX="-242" frameY="-23" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missl0003" x="3206" y="4306" width="615" height="1075" frameX="-236" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missl0004" x="3821" y="4306" width="617" height="1077" frameX="-230" frameY="-28" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG missl0005" x="4438" y="4306" width="618" height="1078" frameX="-225" frameY="-30" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house idle0000" x="5056" y="4306" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house idle0001" x="5720" y="4306" width="667" height="1072" frameX="-226" frameY="-22" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house idle0002" x="6387" y="4306" width="670" height="1070" frameX="-222" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house idle0003" x="0" y="5384" width="673" height="1066" frameX="-218" frameY="-29" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house idle0004" x="673" y="5384" width="675" height="1065" frameX="-215" frameY="-32" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house idle0005" x="1348" y="5384" width="678" height="1061" frameX="-211" frameY="-36" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house idle0006" x="2026" y="5384" width="674" height="1066" frameX="-217" frameY="-30" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house idle0007" x="2700" y="5384" width="669" height="1070" frameX="-224" frameY="-24" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house idle0008" x="5056" y="4306" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house up0000" x="3369" y="5384" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house up0001" x="4033" y="5384" width="681" height="1072" frameX="-220" frameY="-14" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house up0002" x="4714" y="5384" width="691" height="1069" frameX="-210" frameY="-9" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house up0003" x="5405" y="5384" width="698" height="1066" frameX="-202" frameY="-5" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house up0004" x="6103" y="5384" width="702" height="1064" frameX="-195" frameY="0" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house down0000" x="6805" y="5384" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house down0001" x="0" y="6460" width="670" height="1072" frameX="-227" frameY="-22" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house down0002" x="670" y="6460" width="676" height="1070" frameX="-225" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house down0003" x="1346" y="6460" width="682" height="1066" frameX="-221" frameY="-29" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house down0004" x="2028" y="6460" width="689" height="1065" frameX="-217" frameY="-32" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house down0005" x="2717" y="6460" width="696" height="1061" frameX="-213" frameY="-36" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house r0000" x="3413" y="6460" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house r0001" x="4077" y="6460" width="646" height="1072" frameX="-219" frameY="-21" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house r0002" x="4723" y="6460" width="648" height="1069" frameX="-208" frameY="-23" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house r0003" x="5371" y="6460" width="654" height="1064" frameX="-197" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house r0004" x="6025" y="6460" width="660" height="1059" frameX="-187" frameY="-28" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house r0005" x="6685" y="6460" width="665" height="1054" frameX="-177" frameY="-30" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house l0000" x="0" y="7536" width="664" height="1076" frameX="-231" frameY="-18" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house l0001" x="664" y="7536" width="614" height="1074" frameX="-247" frameY="-21" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house l0002" x="1278" y="7536" width="614" height="1075" frameX="-242" frameY="-23" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house l0003" x="1892" y="7536" width="615" height="1076" frameX="-236" frameY="-25" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house l0004" x="2507" y="7536" width="617" height="1077" frameX="-230" frameY="-28" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="JacobOG house l0005" x="3124" y="7536" width="617" height="1078" frameX="-225" frameY="-30" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>

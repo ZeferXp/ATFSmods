@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EnemyJA.png">
+<SubTexture name="EnemyJA Idle0000" x="1426" y="0" width="725" height="1586" frameX="-240" frameY="-333" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="EnemyJA Up0000" x="0" y="0" width="722" height="1754" frameX="-243" frameY="-165" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="EnemyJA Down0000" x="0" y="1754" width="721" height="1056" frameX="-245" frameY="-863" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="EnemyJA Left0000" x="722" y="0" width="704" height="1648" frameX="-312" frameY="-271" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="EnemyJA Right0000" x="2151" y="0" width="747" height="1584" frameX="-179" frameY="-334" frameWidth="1214" frameHeight="2160" />
+<SubTexture name="EnemyJA Miss0000" x="2898" y="0" width="705" height="1428" frameX="-312" frameY="-491" frameWidth="1214" frameHeight="2160" />
+</TextureAtlas>

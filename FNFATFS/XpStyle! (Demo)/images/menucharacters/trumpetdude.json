@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"image": "trumpetmenu",
+	"position": [1905, 1864],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.1,
+	"confirm_anim": "coolio"
+}

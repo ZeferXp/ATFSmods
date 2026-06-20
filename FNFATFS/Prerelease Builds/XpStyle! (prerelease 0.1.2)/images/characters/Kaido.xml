@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Kaido.png">
+<SubTexture name="Kaido idle0000" x="807" y="0" width="816" height="768" frameX="-370" frameY="-173" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Kaido idle0001" x="0" y="0" width="807" height="788" frameX="-367" frameY="-194" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Kaido up0000" x="0" y="788" width="774" height="768" frameX="-370" frameY="-173" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Kaido down0000" x="1623" y="0" width="867" height="768" frameX="-370" frameY="-173" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Kaido left0000" x="1623" y="768" width="843" height="768" frameX="-298" frameY="-173" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Kaido right0000" x="774" y="788" width="742" height="768" frameX="-370" frameY="-173" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

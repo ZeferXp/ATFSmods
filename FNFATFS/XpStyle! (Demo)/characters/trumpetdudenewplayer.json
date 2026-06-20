@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"offsets": [199, 447],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"offsets": [199, 447],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"offsets": [199, 447],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"offsets": [199, 447],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [199, 447],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [199, 447],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [199, 447],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [3, 4, 5],
+			"fps": 24,
+			"anim": "singDOWN-hold",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Miss"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Miss"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [2, 3, 4, 5],
+			"fps": 24,
+			"anim": "singLEFT-hold",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [3, 4, 5],
+			"fps": 24,
+			"anim": "singUP-hold",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [199, 447],
+			"indices": [1, 2, 3, 4, 5],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		}
+	],
+	"vocals_file": "tdn-player",
+	"no_antialiasing": false,
+	"image": "characters/TrumpetDude-NEW",
+	"position": [0, 350],
+	"healthicon": "trumpetdude",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": true
+}

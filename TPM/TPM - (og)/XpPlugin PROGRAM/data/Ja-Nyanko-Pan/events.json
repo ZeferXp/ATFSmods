@@ -1,0 +1,23 @@
+{
+	"events": [
+		[
+			3500,
+			[
+				["Change Character", "pico-playable", "trumpetdude"]
+			]
+		],
+		[
+			9500,
+			[
+				["Change Character", "pico-playable", "miku"]
+			]
+		],
+		[
+			33300,
+			[
+				["Change Character", "miku", "trumpetdude"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

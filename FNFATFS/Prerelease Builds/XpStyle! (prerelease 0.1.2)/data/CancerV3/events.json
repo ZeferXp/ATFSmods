@@ -1,0 +1,19 @@
+{
+	"events": [
+		[
+			124195.804195804,
+			[
+				["Change Character", "Dad", "Kaido"],
+				["Screen Shake", "1", "2"]
+			]
+		],
+		[
+			152727.272727273,
+			[
+				["Change Character", "Dad", "Zefer-LL"],
+				["Screen Shake", "1", "2"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

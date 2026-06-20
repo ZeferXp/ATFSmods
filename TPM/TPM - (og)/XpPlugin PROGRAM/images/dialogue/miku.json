@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		40,
+		-70
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "Miku idle dance",
+			"idle_name": "Miku idle dance0000"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "miku hey",
+			"idle_name": "miku hey0003"
+		},
+		{
+			"loop_name": "ew miku",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ew miku0000",
+			"anim": "what.",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "miku_assets"
+}

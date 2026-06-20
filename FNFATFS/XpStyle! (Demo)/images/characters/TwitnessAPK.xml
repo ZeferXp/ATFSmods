@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TwitnessAPK.png">
+<SubTexture name="TwitnessAPK Idle0000" x="0" y="6383" width="1926" height="1019" frameX="-38" frameY="-609" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Idle0001" x="3909" y="5315" width="2006" height="1054" frameX="-3" frameY="-590" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Idle0002" x="1926" y="6383" width="1926" height="1019" frameX="-38" frameY="-609" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Idle0003" x="1903" y="5315" width="2006" height="1062" frameX="-20" frameY="-587" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Up0000" x="0" y="4118" width="1926" height="1197" frameX="-38" frameY="-567" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Up0001" x="0" y="0" width="2006" height="1524" frameX="-3" frameY="-360" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Up0002" x="1855" y="1524" width="1926" height="1262" frameX="-38" frameY="-532" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Up0003" x="2006" y="0" width="2006" height="1400" frameX="-20" frameY="-437" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Down0000" x="3725" y="2874" width="1926" height="1199" frameX="-64" frameY="-581" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Down0001" x="1917" y="2874" width="1808" height="1212" frameX="-126" frameY="-550" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Down0002" x="5915" y="2231" width="1605" height="1046" frameX="-261" frameY="-539" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Down0003" x="0" y="5315" width="1903" height="1068" frameX="-93" frameY="-561" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Left0000" x="1926" y="4118" width="1926" height="1197" frameX="-64" frameY="-583" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Left0001" x="3852" y="4118" width="1708" height="1185" frameX="-229" frameY="-480" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Left0002" x="5915" y="1124" width="1503" height="1107" frameX="-481" frameY="-615" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Left0003" x="5915" y="0" width="1725" height="1124" frameX="-246" frameY="-544" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Right0000" x="4012" y="1249" width="1688" height="1215" frameX="-305" frameY="-563" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Right0001" x="0" y="2874" width="1917" height="1244" frameX="-30" frameY="-487" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Right0002" x="0" y="1524" width="1855" height="1350" frameX="-125" frameY="-362" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="TwitnessAPK Right0003" x="4012" y="0" width="1903" height="1249" frameX="-65" frameY="-419" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

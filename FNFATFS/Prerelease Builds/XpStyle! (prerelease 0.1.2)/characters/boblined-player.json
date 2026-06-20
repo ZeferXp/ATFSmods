@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [1, 16],
+			"indices": [5],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Ugh"
+		},
+		{
+			"offsets": [48, 54],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sing Up"
+		},
+		{
+			"offsets": [76, -101],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [48, 12],
+			"indices": [5],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Ugh"
+		},
+		{
+			"offsets": [76, -20],
+			"indices": [5],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Ugh"
+		},
+		{
+			"offsets": [84, -14],
+			"indices": [5],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Ugh"
+		},
+		{
+			"offsets": [79, 7],
+			"indices": [5],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Ugh"
+		},
+		{
+			"offsets": [-15, -8],
+			"indices": [5],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Ugh"
+		},
+		{
+			"offsets": [-24, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [-38, 32],
+			"indices": [2],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [46, 3],
+			"indices": [1],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sing Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/BobLined",
+	"position": [0, 240],
+	"healthicon": "LinedBob",
+	"flip_x": false,
+	"healthbar_colors": [188, 187, 180],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": true
+}

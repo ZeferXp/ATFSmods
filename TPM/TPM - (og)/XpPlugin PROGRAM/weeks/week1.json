@@ -1,0 +1,36 @@
+{
+	"storyName": "The First Time",
+	"difficulties": "Normal, googoogaga",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Bad_Apple",
+			"TheThree",
+			[
+				66,
+				173,
+				255
+			]
+		],
+		[
+			"Ja-Nyanko-Pan",
+			"face",
+			[
+				255,
+				255,
+				73
+			]
+		]
+	],
+	"weekCharacters": [
+		"pico",
+		"trumpetdude",
+		"miku"
+	],
+	"hideStoryMode": false,
+	"weekName": "First Week",
+	"hiddenUntilUnlocked": false
+}

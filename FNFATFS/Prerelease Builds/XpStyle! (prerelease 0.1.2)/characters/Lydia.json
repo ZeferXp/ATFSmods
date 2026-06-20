@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lydia Up"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lydia Idle"
+		},
+		{
+			"offsets": [0, 7],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Lydia Left"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Lydia Idle"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 1, 2, 2],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Lydia Down"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 2, 2],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Lydia Right"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 1, 2, 2],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Lydia Left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Lydia",
+	"position": [-330, -50],
+	"healthicon": "xh",
+	"flip_x": false,
+	"healthbar_colors": [0, 104, 156],
+	"camera_position": [120, 180],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

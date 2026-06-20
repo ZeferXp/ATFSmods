@@ -1,0 +1,36 @@
+{
+	"storyName": "VS JamieProJects",
+	"difficulties": "Normal, Rr",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Boredom",
+			"icon- jamie",
+			[
+				86,
+				0,
+				0
+			]
+		],
+		[
+			"Triggered",
+			"icon- jamie",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "JamieProJects"
+}

@@ -1,0 +1,11 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["PlayVideo", "false", "loopingtherooms"]
+			]
+		]
+	],
+	"format": "psych_v1_convert"
+}

@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [-6, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [-6, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [-6, 50],
+			"indices": [10, 11, 12, 12],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [-6, 50],
+			"indices": [12, 13, 14, 15],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [-6, 50],
+			"indices": [15, 16, 17, 18],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [-6, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [-6, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [-6, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [-6, 50],
+			"indices": [56, 57, 58, 59],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Dad Sing Note UP"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JohnPork",
+	"position": [410, -390],
+	"healthicon": "JohnPork",
+	"flip_x": false,
+	"healthbar_colors": [236, 232, 229],
+	"camera_position": [-260, 0],
+	"sing_duration": 6.1,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

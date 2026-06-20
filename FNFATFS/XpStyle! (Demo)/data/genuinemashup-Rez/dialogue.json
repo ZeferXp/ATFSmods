@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Uhhhhh. that must be a DiddlerBlueHairRapRap over there with.......",
+			"boxState": "normal",
+			"sound": "Mace_beep",
+			"speed": 0.05,
+			"portrait": "Mace"
+		},
+		{
+			"sound": "Mace_beep",
+			"speed": 0.1,
+			"portrait": "Mace",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": ".................................................................................... ...................................................................................."
+		},
+		{
+			"sound": "Mace_beep",
+			"speed": 0.05,
+			"portrait": "Mace",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "A bitch?"
+		},
+		{
+			"sound": "pop",
+			"speed": 0.05,
+			"portrait": "rez",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Ayo Mace, don't call me a bitch, call the blue haired dude's wife a bitch"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "ashjiosadjdsaonsjdfhnodajvijadfsnahsdcvasdojnjavdoavdjnio dvmakpdsvokkvdspamkspoadvvmkadspomavsdnwhiwhawi Whaaaaatttttttttttttttttttttttttttttttt"
+		},
+		{
+			"sound": "pop",
+			"speed": 0.05,
+			"portrait": "Rez",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There's always a major inconvenience in my world, so"
+		},
+		{
+			"sound": "pop",
+			"speed": 0.05,
+			"portrait": "Rez",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I"
+		},
+		{
+			"sound": "Pop",
+			"speed": 0.05,
+			"portrait": "Rez",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't"
+		},
+		{
+			"sound": "pop",
+			"speed": 0.05,
+			"portrait": "Rez",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Give A"
+		},
+		{
+			"sound": "Mace_angy_beep",
+			"speed": 0.05,
+			"portrait": "Rez",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "DAMN SHIT ABOUT YOUR WOMEN PROBLEMS!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beepbop?"
+		},
+		{
+			"sound": "Mace_beep",
+			"speed": 0.05,
+			"portrait": "Mace",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Yes, now GETOUT!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Just let the fffnnfff tho"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "thats what this funky game is abt"
+		},
+		{
+			"sound": "Mace_beep",
+			"speed": 0.05,
+			"portrait": "Mace",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "well fine then..."
+		},
+		{
+			"sound": "Mace_angy_beep",
+			"speed": 0.05,
+			"portrait": "Mace",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Lemme use the aiueo-book then"
+		},
+		{
+			"sound": "Mace_beep",
+			"speed": 0.05,
+			"portrait": "Mace",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I-I mean i-book or e-book or MeBook or WeBook ... or whatever it's called in this realm of ykioG or this OSC XpCU place"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bap?"
+		}
+	]
+}

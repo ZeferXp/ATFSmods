@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [10, 11, 12, 12],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [-9, 10],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [12, 13, 14, 15],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [0, 27],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [15, 16, 17, 18],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [-6, 50],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [56, 57, 58, 59],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mace Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-9, 10],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mace Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -30],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mace Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-6, -14],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mace Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -36],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mace Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Mace Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Mace Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Mace Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Mace Miss",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Mace",
+	"position": [0, 20],
+	"healthicon": "Mace",
+	"flip_x": false,
+	"healthbar_colors": [78, 196, 255],
+	"camera_position": [80, -60],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

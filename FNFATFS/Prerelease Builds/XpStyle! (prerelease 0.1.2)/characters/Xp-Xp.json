@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 6,
+			"anim": "hey",
+			"indices": [],
+			"name": "Xp Up"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 6,
+			"name": "Xp Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN",
+			"fps": 6,
+			"name": "Xp Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT",
+			"fps": 6,
+			"name": "Xp Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 6,
+			"name": "Xp Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHT",
+			"fps": 6,
+			"name": "Xp Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "scared",
+			"fps": 6,
+			"name": "Xp Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "Xp",
+	"no_antialiasing": false,
+	"image": "flipa/Xp",
+	"position": [-100, 310],
+	"healthicon": "Heartlb",
+	"flip_x": true,
+	"healthbar_colors": [0, 208, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

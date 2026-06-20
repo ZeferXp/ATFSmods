@@ -1,0 +1,31 @@
+{
+	"storyName": "triple trouble is fucking cool yk",
+	"difficulties": "Hard, Demo",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tripler Troublest",
+			"Zefer",
+			[
+				31,
+				9,
+				61
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "TTrip"
+}

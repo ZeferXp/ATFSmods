@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Spookeez", "nillia", [34, 51, 68]],
+		["South", "nillia", [34, 51, 68]],
+		["Monster", "JohnPork", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		" ",
+		" "
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "Treating Month with you friend's bff",
+	"weekBefore": "week1",
+	"weekName": "Week 2 (CRITEN)",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

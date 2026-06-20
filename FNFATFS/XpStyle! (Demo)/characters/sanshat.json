@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [-15, -8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "TANKMAN UGH"
+		},
+		{
+			"offsets": [1, 16],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "PRETTY GOOD tankman"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [48, 54],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [76, -101],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [84, -14],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-21, -31],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [76, -101],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Ugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [84, -14],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Ugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-21, -31],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Ugh",
+			"indices": []
+		},
+		{
+			"offsets": [48, 54],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Ugh"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sanshat",
+	"position": [0, 240],
+	"healthicon": "sanshat",
+	"flip_x": false,
+	"healthbar_colors": [75, 75, 75],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

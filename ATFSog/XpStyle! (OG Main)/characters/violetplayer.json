@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-3, 5],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [14, 18],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-4, 0],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -16],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [294, 267],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-40, -40],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [325, 318],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"offsets": [325, 318],
+			"loop": false,
+			"fps": 6,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"offsets": [325, 318],
+			"loop": false,
+			"fps": 6,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"offsets": [325, 318],
+			"loop": false,
+			"fps": 6,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singRIGHT",
+			"fps": 6,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singLEFT",
+			"fps": 6,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [325, 318],
+			"indices": [],
+			"fps": 6,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [325, 318],
+			"indices": [],
+			"fps": 3,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Violet_player",
+	"position": [-70, 220],
+	"healthicon": "violet",
+	"flip_x": true,
+	"healthbar_colors": [170, 0, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": true
+}

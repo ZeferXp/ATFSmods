@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BSD6.png">
+<SubTexture name="BSD6 Up0000" x="1163" y="634" width="416" height="625" frameX="0" frameY="0" frameWidth="416" frameHeight="625" />
+<SubTexture name="BSD6 Up0001" x="437" y="634" width="417" height="627" frameX="0" frameY="0" frameWidth="417" frameHeight="627" />
+<SubTexture name="BSD6 Down0000" x="1633" y="619" width="381" height="595" frameX="0" frameY="0" frameWidth="381" frameHeight="595" />
+<SubTexture name="BSD6 Down0001" x="463" y="1262" width="387" height="584" frameX="0" frameY="0" frameWidth="387" frameHeight="584" />
+<SubTexture name="BSD6 Right0000" x="1633" y="0" width="434" height="619" frameX="0" frameY="0" frameWidth="434" frameHeight="619" />
+<SubTexture name="BSD6 Right0001" x="0" y="1262" width="463" height="618" frameX="0" frameY="0" frameWidth="463" frameHeight="618" />
+<SubTexture name="BSD6 Left0000" x="854" y="634" width="309" height="627" frameX="0" frameY="0" frameWidth="309" frameHeight="627" />
+<SubTexture name="BSD6 Left0001" x="884" y="0" width="311" height="628" frameX="0" frameY="0" frameWidth="311" frameHeight="628" />
+<SubTexture name="BSD6 Idle0000" x="0" y="0" width="442" height="634" frameX="0" frameY="0" frameWidth="442" frameHeight="634" />
+<SubTexture name="BSD6 Idle0001" x="1195" y="0" width="438" height="628" frameX="0" frameY="0" frameWidth="438" frameHeight="628" />
+<SubTexture name="BSD6 Idle0002" x="0" y="634" width="437" height="628" frameX="0" frameY="0" frameWidth="437" frameHeight="628" />
+<SubTexture name="BSD6 Idle0003" x="442" y="0" width="442" height="634" frameX="0" frameY="0" frameWidth="442" frameHeight="634" />
+</TextureAtlas>

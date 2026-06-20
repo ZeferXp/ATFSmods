@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "what the f##k did you just do",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "trumpetdude"
+		},
+		{
+			"expression": "talk",
+			"text": "Idk. And yk you can swear?",
+			"boxState": "normal",
+			"sound": "Deltarunetext",
+			"speed": 0.05,
+			"portrait": "miku"
+		},
+		{
+			"expression": "confused",
+			"text": "bruv, this is Funni Sh#t, not Real Life",
+			"boxState": "normal",
+			"sound": "vine-boom",
+			"speed": 0.09,
+			"portrait": "trumpetdude"
+		},
+		{
+			"expression": "excited",
+			"text": "look, its pico from the pico",
+			"boxState": "normal",
+			"sound": "vine-boom",
+			"speed": 0.01,
+			"portrait": "trumpetdude"
+		},
+		{
+			"expression": "confused",
+			"text": "Pico the pico is not my name...",
+			"boxState": "normal",
+			"sound": "hitsound",
+			"speed": 0.1,
+			"portrait": "pico"
+		},
+		{
+			"expression": "excited",
+			"text": "I see that you like the fnfnfnfnfnfnfnfnfnfnfnfnfnfnfnf fnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnnfnfnfnf fnfnfnnfnfnfnnffnnffnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnf fnfnfnfnfnffnfnfnfnfnfnfnfnfnfnfnfnffnfnfnfnfnfnfnfnfnfnf fnfnfnfnfnfnfnf",
+			"boxState": "normal",
+			"sound": "vine-boom",
+			"speed": 0.01,
+			"portrait": "trumpetdude"
+		},
+		{
+			"expression": "excited",
+			"text": "yes. now les do it so you can shut up",
+			"boxState": "normal",
+			"sound": "hitsound",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "okayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy  yyyyyyyyyyyyyyyyyyyyyyyyy",
+			"boxState": "normal",
+			"sound": "vine-boom",
+			"speed": 0.05,
+			"portrait": "trumpetdude"
+		}
+	]
+}

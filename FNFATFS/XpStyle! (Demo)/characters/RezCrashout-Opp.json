@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [3, 0],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "gfDance",
+			"indices": [1]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gfDance",
+			"indices": [17]
+		},
+		{
+			"loop": false,
+			"offsets": [0, -20],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gfDance",
+			"indices": [16]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 4],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gfDance",
+			"indices": [19]
+		},
+		{
+			"loop": false,
+			"offsets": [0, -20],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gfDance",
+			"indices": [5]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "sad",
+			"fps": 24,
+			"name": "gfDance",
+			"indices": [20]
+		},
+		{
+			"loop": false,
+			"offsets": [0, -9],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gfDance",
+			"indices": [0, 1, 2, 3, 4]
+		},
+		{
+			"loop": false,
+			"offsets": [0, -9],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gfDance",
+			"indices": [1, 2, 3, 4]
+		},
+		{
+			"loop": false,
+			"offsets": [0, -9],
+			"anim": "hairFall",
+			"fps": 24,
+			"name": "gfDance",
+			"indices": [1, 2, 3, 4]
+		},
+		{
+			"loop": true,
+			"offsets": [45, -8],
+			"anim": "hairBlow",
+			"fps": 24,
+			"name": "gfDance0001",
+			"indices": [0, 1, 2, 3]
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "SingUPmiss",
+			"indices": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "SingDOWNmiss",
+			"indices": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "SingLEFTmiss",
+			"indices": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "SingRIGHTmiss",
+			"indices": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+			"name": "gfDance"
+		}
+	],
+	"vocals_file": "RezAngry",
+	"no_antialiasing": false,
+	"image": "characters/RezCrashout",
+	"position": [60, 40],
+	"healthicon": "Rez",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 0],
+	"camera_position": [-60, 80],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

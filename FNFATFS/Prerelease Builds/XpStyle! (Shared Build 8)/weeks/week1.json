@@ -1,0 +1,45 @@
+{
+	"storyName": "diddy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"SickoMode",
+			"xpsjr",
+			[
+				95,
+				113,
+				255
+			]
+		],
+		[
+			"r u joking",
+			"xpblox",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"can't kopil with you",
+			"kirpil",
+			[
+				0,
+				160,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "XpSjr"
+}

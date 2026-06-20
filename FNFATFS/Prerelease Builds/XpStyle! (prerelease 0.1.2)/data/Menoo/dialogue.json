@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "DID YOU MESS WITH KAIDO",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "Cap"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes, I messed with KaidoJet",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "It's not ideal to call someone by their real name yk.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Kaido"
+		},
+		{
+			"expression": "talk",
+			"text": "nope.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "FUCK",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CAP"
+		},
+		{
+			"expression": "pissed",
+			"text": "YOU!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Cap"
+		},
+		{
+			"expression": "talk",
+			"text": "Can I do rap battle to see who's better?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Kaido",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Do the one I did"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Cap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "F-f-FINE"
+		}
+	]
+}

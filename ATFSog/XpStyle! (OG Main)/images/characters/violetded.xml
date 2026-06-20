@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Violet.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Up0000" x="0" y="0" width="1216" height="1037" frameX="-22" frameY="-39" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Idle0000" x="4068" y="0" width="912" height="991" frameX="-171" frameY="-119" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Miss0000" x="3153" y="1050" width="900" height="1032" frameX="-163" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Miss0001" x="1916" y="2069" width="900" height="1032" frameX="-163" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Idle0001" x="3153" y="2082" width="915" height="1000" frameX="-171" frameY="-108" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Down0000" x="0" y="1037" width="979" height="1032" frameX="-163" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Down0001" x="1216" y="0" width="979" height="1032" frameX="-163" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Idle0002" x="3153" y="0" width="915" height="1050" frameX="-171" frameY="-49" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Right0000" x="0" y="2069" width="958" height="1032" frameX="-226" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Right0001" x="2195" y="0" width="958" height="1032" frameX="-226" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Idle0003" x="0" y="3101" width="915" height="975" frameX="-171" frameY="-137" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Right0002" x="2195" y="1032" width="958" height="1032" frameX="-226" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Right0003" x="958" y="2069" width="958" height="1032" frameX="-226" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Left0000" x="979" y="1037" width="973" height="1032" frameX="-90" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>

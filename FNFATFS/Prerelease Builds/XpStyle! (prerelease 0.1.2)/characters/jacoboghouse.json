@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "JacobOG missr"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "JacobOG missd"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "JacobOG missup"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "JacobOG missl"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "JacobOG house idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "hey",
+			"fps": 24,
+			"name": "JacobOG house up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "JacobOG house down",
+			"indices": [2, 3, 4]
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [1, 2, 3, 4, 5],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "JacobOG house r"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [1, 2, 3, 4, 5],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "JacobOG house l"
+		},
+		{
+			"offsets": [0, 32],
+			"indices": [1, 2, 3, 4],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "JacobOG house up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JacobOG",
+	"position": [-330, 20],
+	"healthicon": "jacob",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [-270, 340],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": true
+}

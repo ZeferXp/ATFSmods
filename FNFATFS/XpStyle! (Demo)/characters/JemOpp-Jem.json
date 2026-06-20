@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 6,
+			"name": "Jem Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN",
+			"fps": 6,
+			"name": "Jem Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 3,
+			"name": "Jem Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHT",
+			"fps": 3,
+			"name": "Jem Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT",
+			"fps": 3,
+			"name": "Jem Left",
+			"indices": []
+		}
+	],
+	"vocals_file": "Jem",
+	"no_antialiasing": false,
+	"image": "characters/Jem",
+	"position": [-210, -130],
+	"healthicon": "Jem",
+	"flip_x": false,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [120, 230],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": false
+}

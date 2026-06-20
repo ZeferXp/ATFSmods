@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CapJ.png">
+<SubTexture name="Cap idle0000" x="0" y="0" width="790" height="1072" frameX="-179" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Cap up0000" x="790" y="0" width="827" height="1072" frameX="-179" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Cap left0000" x="1617" y="0" width="579" height="1072" frameX="-179" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Cap right0000" x="0" y="1072" width="737" height="1072" frameX="-179" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Cap down0000" x="737" y="1072" width="807" height="1072" frameX="-179" frameY="-151" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

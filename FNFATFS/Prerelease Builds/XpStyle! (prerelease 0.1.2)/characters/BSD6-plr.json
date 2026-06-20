@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 41],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BSD6 Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 41],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BSD6 Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 41],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BSD6 Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 41],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BSD6 Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 41],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BSD6 Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 41],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BSD6 Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 41],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BSD6 Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 41],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BSD6 Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 41],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BSD6 Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "BSD6",
+	"no_antialiasing": false,
+	"image": "characters/BSD6",
+	"position": [0, 240],
+	"healthicon": "orangebutremastered",
+	"flip_x": false,
+	"healthbar_colors": [255, 135, 2],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,9 @@
+{
+	"idle_anim": "Miku idle dance",
+	"image": "miku_menu",
+	"position": [111, 267],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.55,
+	"confirm_anim": "miku hey"
+}

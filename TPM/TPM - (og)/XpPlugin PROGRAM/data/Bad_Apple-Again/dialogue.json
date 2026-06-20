@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "voice_undertale_goatboy",
+			"speed": 0.08,
+			"portrait": "teto",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heya miku"
+		},
+		{
+			"sound": "Deltarunetext",
+			"speed": 0.05,
+			"portrait": "miku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heya teto"
+		},
+		{
+			"sound": "Deltarunetext",
+			"speed": 0.05,
+			"portrait": "miku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why is your voice like that"
+		},
+		{
+			"sound": "voice_undertale_goatboy",
+			"speed": 0.05,
+			"portrait": "teto",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "maybe because the creator of this mod doesn't have enough money for V Synth or Vocaloid Editor"
+		},
+		{
+			"sound": "Deltarunetext",
+			"speed": 0.05,
+			"portrait": "miku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Makes sense"
+		},
+		{
+			"sound": "Deltarunetext",
+			"speed": 0.05,
+			"portrait": "miku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so anyways, want to sing a song I learnt?"
+		},
+		{
+			"sound": "voice_undertale_goatboy",
+			"speed": 0.05,
+			"portrait": "teto",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oke"
+		}
+	]
+}

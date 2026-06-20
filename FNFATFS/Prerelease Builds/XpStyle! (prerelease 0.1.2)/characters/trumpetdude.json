@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-180, -67],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [14, 18],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-4, 0],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -16],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [294, 267],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-40, -40],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-127, -33],
+			"anim": "idle",
+			"fps": 14,
+			"name": "TrumpetDude Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-131, -83],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "TrumpetDude Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-145, -59],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "TrumpetDude Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-145, -59],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "TrumpetDude Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-131, -57],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "TrumpetDude Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-124, -37],
+			"anim": "singUP",
+			"fps": 1,
+			"name": "TrumpetDude Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-201, -22],
+			"anim": "singLEFT",
+			"fps": 1,
+			"name": "TrumpetDude Right0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-76, -7],
+			"anim": "singRIGHT",
+			"fps": 1,
+			"name": "TrumpetDude Right0001",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-121, -88],
+			"anim": "singDOWN",
+			"fps": 1,
+			"name": "TrumpetDude Down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/TrumpetDude",
+	"position": [-30, 390],
+	"healthicon": "trumpetdude",
+	"flip_x": true,
+	"healthbar_colors": [255, 255, 0],
+	"camera_position": [0, -10],
+	"sing_duration": 4,
+	"scale": 3.4,
+	"_editor_isPlayer": true
+}

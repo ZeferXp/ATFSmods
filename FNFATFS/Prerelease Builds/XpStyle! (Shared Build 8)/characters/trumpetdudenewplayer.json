@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [199, 447],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 447],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "tdn-player",
+	"no_antialiasing": false,
+	"image": "characters/TrumpetDude-NEW",
+	"position": [0, 350],
+	"healthicon": "trumpetdude",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": true
+}

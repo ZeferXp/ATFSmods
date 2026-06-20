@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Criten.png">
+<SubTexture name="Criten Miss0000" x="3142" y="0" width="1932" height="1932" frameX="-83" frameY="-42" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Miss0001" x="3864" y="1955" width="1055" height="1178" frameX="-250" frameY="-630" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Miss0002" x="6980" y="876" width="845" height="857" frameX="-394" frameY="-409" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Miss0003" x="6980" y="1733" width="837" height="562" frameX="-629" frameY="-126" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Miss0004" x="6980" y="0" width="864" height="876" frameX="-605" frameY="-434" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Miss0005" x="5519" y="3887" width="756" height="1023" frameX="-383" frameY="-670" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Miss0006" x="3510" y="5413" width="1449" height="921" frameX="-321" frameY="-1034" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Down0000" x="0" y="1955" width="1932" height="1932" frameX="-83" frameY="-42" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Down0001" x="3825" y="3887" width="1694" height="1429" frameX="-199" frameY="-532" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Down0002" x="4959" y="5413" width="1449" height="921" frameX="-321" frameY="-1034" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Down0003" x="4959" y="5413" width="1449" height="921" frameX="-321" frameY="-1034" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Down0004" x="4959" y="5413" width="1449" height="921" frameX="-321" frameY="-1034" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Down0005" x="4959" y="5413" width="1449" height="921" frameX="-321" frameY="-1034" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Up0000" x="0" y="1955" width="1932" height="1932" frameX="-83" frameY="-42" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Up0001" x="1449" y="0" width="1693" height="1938" frameX="-212" frameY="-23" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Up0002" x="0" y="0" width="1449" height="1955" frameX="-334" frameY="0" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Up0003" x="0" y="0" width="1449" height="1955" frameX="-334" frameY="0" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Up0004" x="0" y="0" width="1449" height="1955" frameX="-334" frameY="0" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Up0005" x="0" y="0" width="1449" height="1955" frameX="-334" frameY="0" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Left0000" x="0" y="1955" width="1932" height="1932" frameX="-83" frameY="-42" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Left0001" x="5074" y="1732" width="1758" height="1577" frameX="-128" frameY="-397" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Left0002" x="0" y="5413" width="1578" height="1229" frameX="-186" frameY="-752" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Left0003" x="0" y="5413" width="1578" height="1229" frameX="-186" frameY="-752" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Left0004" x="0" y="5413" width="1578" height="1229" frameX="-186" frameY="-752" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Left0005" x="0" y="5413" width="1578" height="1229" frameX="-186" frameY="-752" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Right0000" x="0" y="1955" width="1932" height="1932" frameX="-83" frameY="-42" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Right0001" x="5074" y="0" width="1906" height="1732" frameX="-115" frameY="-236" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Right0002" x="0" y="3887" width="1893" height="1526" frameX="-141" frameY="-442" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Right0003" x="0" y="3887" width="1893" height="1526" frameX="-141" frameY="-442" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Right0004" x="0" y="3887" width="1893" height="1526" frameX="-141" frameY="-442" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Right0005" x="0" y="3887" width="1893" height="1526" frameX="-141" frameY="-442" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Idle0000" x="1932" y="1955" width="1932" height="1932" frameX="-83" frameY="-42" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Idle0001" x="1893" y="3887" width="1932" height="1485" frameX="-83" frameY="-450" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Idle0002" x="1578" y="5413" width="1932" height="1039" frameX="-83" frameY="-857" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Idle0003" x="0" y="6642" width="1932" height="592" frameX="-83" frameY="-1265" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Idle0004" x="1578" y="5413" width="1932" height="1039" frameX="-83" frameY="-857" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Criten Idle0005" x="1893" y="3887" width="1932" height="1485" frameX="-83" frameY="-450" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

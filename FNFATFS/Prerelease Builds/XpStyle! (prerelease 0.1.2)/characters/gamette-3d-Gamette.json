@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gamette Idle"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 6,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gamette Left"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 6,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gamette Down"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 6,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gamette Up"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 6,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gamette Right"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Gamette Up"
+		}
+	],
+	"vocals_file": "Gamette",
+	"no_antialiasing": false,
+	"image": "characters/Gamette3d",
+	"position": [-870, -160],
+	"healthicon": "gam3",
+	"flip_x": false,
+	"healthbar_colors": [182, 71, 185],
+	"camera_position": [310, 240],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

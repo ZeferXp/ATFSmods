@@ -1,0 +1,45 @@
+{
+	"storyName": "weekweekweek is canon to mofth8",
+	"difficulties": "Easy, Normal, Hard, Erect",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Tutorial-BSD6Mix",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bopeebo-BSD6Mix",
+			"dad",
+			[
+				0,
+				233,
+				253
+			]
+		],
+		[
+			"Fresh-BSD6Mix",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": false,
+	"weekName": "BSD6Mix"
+}

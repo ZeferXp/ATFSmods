@@ -1,0 +1,36 @@
+{
+	"storyName": "real",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Not So Coolio",
+			"XpBlox",
+			[
+				255,
+				0,
+				253
+			]
+		],
+		[
+			"Can't Kopil With You",
+			"kirpil",
+			[
+				0,
+				193,
+				0
+			]
+		]
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

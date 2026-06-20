@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [7, 19],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [-15, -19],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [-46, 27],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [-44, 22],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [-3, 5],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [14, 18],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [-4, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [-10, -16],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [294, 267],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [-40, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [189, 203],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "XpSjr left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [186, 178],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "XpSjr down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [176, 187],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "XpSjr up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [156, 178],
+			"anim": "idle",
+			"fps": 12,
+			"name": "XpSjr idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [178, 176],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "XpSjr right",
+			"indices": []
+		}
+	],
+	"vocals_file": "xpsjr",
+	"no_antialiasing": false,
+	"image": "characters/XpSjr",
+	"position": [0, 350],
+	"healthicon": "XpSjr",
+	"flip_x": true,
+	"healthbar_colors": [115, 195, 235],
+	"camera_position": [-30, -130],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

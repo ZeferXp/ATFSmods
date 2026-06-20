@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [-3, 5],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [14, 18],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [-4, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [-10, -16],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [294, 267],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [-40, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "idle",
+			"fps": 6,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singDOWN",
+			"fps": 3,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singRIGHTmiss",
+			"fps": 6,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singUPmiss",
+			"fps": 6,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singDOWNmiss",
+			"fps": 6,
+			"name": "Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [325, 318],
+			"anim": "singRIGHT",
+			"fps": 6,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Violet",
+	"position": [-70, 180],
+	"healthicon": "violet",
+	"flip_x": true,
+	"healthbar_colors": [170, 0, 255],
+	"camera_position": [-320, -30],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

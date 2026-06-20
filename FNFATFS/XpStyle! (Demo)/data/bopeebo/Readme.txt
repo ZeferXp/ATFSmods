@@ -1,0 +1,1 @@
+Please note that the bopeebo-remake.json isn't going to be re-adapted to actually work anytime soon :p

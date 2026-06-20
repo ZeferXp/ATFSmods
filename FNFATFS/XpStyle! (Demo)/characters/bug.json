@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Bug Right"
+		},
+		{
+			"offsets": [0, 45],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Bug Down"
+		},
+		{
+			"offsets": [0, 45],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Bug MissDown"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Bug MissLeft"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Bug MissRight"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Bug MissUp"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Bug Up"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Bug Idle"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "Bug MissUp"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": true,
+			"name": "Bug Idle"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "Bug Up"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "Bug"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre-attack",
+			"loop": false,
+			"name": "Bug Idle"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Bug Left"
+		},
+		{
+			"offsets": [0, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Bug Up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Bug",
+	"position": [-330, 60],
+	"healthicon": "Bug",
+	"flip_x": true,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [-240, 290],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": true
+}

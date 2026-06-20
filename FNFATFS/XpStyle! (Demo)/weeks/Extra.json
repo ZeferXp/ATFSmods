@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"Funk-Spel",
+			"sarvente",
+			[
+				186,
+				73,
+				253
+			]
+		],
+		[
+			"Church-Trouble",
+			"Zefer",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Criten-trouble",
+			"Criten",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "__Deb",
+	"weekName": "__Deb",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

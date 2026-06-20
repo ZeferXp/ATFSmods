@@ -1,0 +1,167 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [5, -6],
+			"anim": "singLEFT",
+			"fps": 6,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [5, -6],
+			"anim": "singLEFT-hold",
+			"fps": 6,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [10, -16],
+			"anim": "singDOWN",
+			"fps": 6,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [10, -16],
+			"anim": "singDOWN-hold",
+			"fps": 6,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, -10],
+			"anim": "singUP",
+			"fps": 6,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, -10],
+			"anim": "singUP-hold",
+			"fps": 6,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, -10],
+			"anim": "singRIGHT",
+			"fps": 6,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, -10],
+			"anim": "singRIGHT-hold",
+			"fps": 6,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, -10],
+			"anim": "singLEFTmiss",
+			"fps": 6,
+			"name": "MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, -10],
+			"anim": "singUPmiss",
+			"fps": 6,
+			"name": "MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, -10],
+			"anim": "singDOWNmiss",
+			"fps": 6,
+			"name": "MissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, -10],
+			"anim": "singRIGHTmiss",
+			"fps": 6,
+			"name": "MissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [14, 18],
+			"anim": "hurt",
+			"fps": 12,
+			"name": "MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -16],
+			"anim": "dodge",
+			"fps": 12,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-4, 0],
+			"anim": "scared",
+			"fps": 12,
+			"name": "MissDown",
+			"indices": []
+		},
+		{
+			"offsets": [-5, -4],
+			"indices": [],
+			"fps": 6,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [-4, 5],
+			"indices": [],
+			"fps": 1,
+			"anim": "hey",
+			"loop": false,
+			"name": "Vay0000"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre-attack",
+			"loop": false,
+			"name": "Vay"
+		}
+	],
+	"vocals_file": "Smelly0no",
+	"no_antialiasing": false,
+	"image": "characters/Smelly0no",
+	"position": [0, 150],
+	"healthicon": "Smelly0no",
+	"flip_x": false,
+	"healthbar_colors": [255, 101, 101],
+	"camera_position": [-120, 40],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,2 @@
+value 1: Video Name
+value 2: Skippable? either "true" or "false"

@@ -1,0 +1,27 @@
+{
+	"storyName": "Rez Crashes Out",
+	"difficulties": "Rez, Normal, Crashout",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"GenuineMashup",
+			"Mace",
+			[
+				66,
+				133,
+				253
+			]
+		]
+	],
+	"weekName": "Rez Crashes Out",
+	"hiddenUntilUnlocked": false
+}

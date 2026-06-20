@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 57],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sunshine Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 57],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sunshine Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 45],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sunshine Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 45],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Sunshine MissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 57],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Sunshine MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 57],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Sunshine MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 57],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Sunshine MissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 7],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sunshine Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 7],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Sunshine Hey!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 7],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Sunshine Hey!",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 7],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Sunshine Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 7],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Sunshine Hey!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 55],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Sunshine",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 7],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "Sunshine Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 57],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sunshine Left",
+			"indices": []
+		}
+	],
+	"vocals_file": "Sunshine",
+	"no_antialiasing": false,
+	"image": "characters/sunshine",
+	"position": [-340, -40],
+	"healthicon": "sunshine",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 0],
+	"camera_position": [-100, 230],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": true
+}

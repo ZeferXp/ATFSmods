@@ -1,0 +1,104 @@
+{
+    "version": "1.0.0",
+    "name": "Rez",
+    "renderType": "multisparrow",
+    "assetPath": "characters/Rez",
+    "flipX": false,
+    "singTime": 3,
+    "animations": [
+        {
+            "name": "scared",
+            "prefix": "gfDance0000",
+            "offsets": [
+                -2,
+                -17
+            ],
+            "looped": true
+        },
+        {
+            "name": "cheer",
+            "prefix": "gfDance0000",
+            "offsets": [
+                3,
+                0
+            ]
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "gfDance0005",
+            "offsets": [
+                0,
+                0
+            ]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "gfDance0010",
+            "offsets": [
+                0,
+                -20
+            ]
+        },
+        {
+            "name": "singUP",
+            "prefix": "gfDance0014",
+            "offsets": [
+                0,
+                4
+            ]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "gfDance0005",
+            "offsets": [
+                0,
+                -20
+            ]
+        },
+        {
+            "name": "sad",
+            "prefix": "gfDance0015",
+            "offsets": [
+                0,
+                0
+            ]
+        },
+        {
+            "name": "danceLeft",
+            "prefix": "gfDance0000",
+            "offsets": [
+                0,
+                -9
+            ]
+        },
+        {
+            "name": "danceRight",
+            "prefix": "gfDance0000",
+            "offsets": [
+                0,
+                -9
+            ]
+        },
+        {
+            "name": "hairFall",
+            "prefix": "gfDance0002",
+            "offsets": [
+                0,
+                -9
+            ]
+        },
+        {
+            "name": "hairBlow",
+            "prefix": "gfDance0001",
+            "offsets": [
+                45,
+                -8
+            ],
+            "looped": true
+        }
+    ],
+    "startingAnimation": "",
+    "isPixel": false,
+    "scale": 1,
+    "Made_With": "PsychEngine"
+}

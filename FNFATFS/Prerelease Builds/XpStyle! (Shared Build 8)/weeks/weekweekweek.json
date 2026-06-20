@@ -1,0 +1,36 @@
+{
+	"storyName": "Vs Zefer ft. Boy Fren D",
+	"difficulties": "Normal,Normal,Normal,Normal,Normal,Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Coolio Is The Way",
+			"zefer",
+			[
+				86,
+				153,
+				255
+			]
+		],
+		[
+			"Random",
+			"trumpetdude",
+			[
+				246,
+				213,
+				0
+			]
+		]
+	],
+	"weekName": "weekweekweek",
+	"hiddenUntilUnlocked": false
+}

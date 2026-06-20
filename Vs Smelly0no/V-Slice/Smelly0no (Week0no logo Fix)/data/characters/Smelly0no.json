@@ -1,0 +1,288 @@
+{
+	"renderType": "multisparrow",
+	"Made_With": "PsychEngine",
+	"offsets": [
+		0,
+		0
+	],
+	"applyStageMatrix": false,
+	"startingAnimation": "",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"id": "Smelly0no",
+		"flipX": false,
+		"isPixel": false,
+		"scale": 1
+	},
+	"assetPath": "characters/Smelly0no",
+	"version": "1.0.0",
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Smelly0no",
+	"flipX": false,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"singTime": 4,
+	"isPixel": false,
+	"atlasSettings": {
+		"applyStageMatrix": false,
+		"useRenderTexture": false,
+		"filterQuality": 1,
+		"cacheOnLoad": false,
+		"swfMode": true
+	},
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"frameRate": 24,
+			"prefix": "Left",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"frameRate": 24,
+			"prefix": "Left",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT-hold"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-7,
+				-5
+			],
+			"frameRate": 24,
+			"prefix": "Down",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				10,
+				-16
+			],
+			"frameRate": 24,
+			"prefix": "Down",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN-hold"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-18,
+				-10
+			],
+			"frameRate": 24,
+			"prefix": "Up",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-18,
+				-10
+			],
+			"frameRate": 24,
+			"prefix": "Up",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP-hold"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				2,
+				-10
+			],
+			"frameRate": 24,
+			"prefix": "Right",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-18,
+				-10
+			],
+			"frameRate": 24,
+			"prefix": "Right",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT-hold"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-18,
+				-10
+			],
+			"frameRate": 24,
+			"prefix": "MissLeft",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-18,
+				-10
+			],
+			"frameRate": 24,
+			"prefix": "MissUp",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-8,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "MissDown",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-18,
+				-10
+			],
+			"frameRate": 24,
+			"prefix": "MissRight",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				14,
+				18
+			],
+			"frameRate": 24,
+			"prefix": "MissLeft",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "hurt"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"frameRate": 24,
+			"prefix": "Left",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "dodge"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "MissDown",
+			"animType": "framelabel",
+			"flipX": false,
+			"name": "scared",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-5,
+				-4
+			],
+			"frameRate": 24,
+			"prefix": "Idle",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-4,
+				5
+			],
+			"frameRate": 24,
+			"prefix": "Vay0000",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "hey"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "Down",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "attack"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "Vay",
+			"animType": "framelabel",
+			"flipX": false,
+			"looped": false,
+			"name": "pre-attack"
+		}
+	]
+}

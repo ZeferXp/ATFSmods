@@ -1,0 +1,9 @@
+{
+	"idle_anim": "Dad idle dance",
+	"image": "Teto",
+	"position": [240, 234],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.45,
+	"confirm_anim": "Dad Sing Note LEFT"
+}

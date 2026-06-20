@@ -1,0 +1,27 @@
+{
+	"storyName": "MESMERISER IS HARDER - Hatsune Miku",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "week2",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Memory",
+			"bf",
+			[
+				0,
+				173,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"miku",
+		"",
+		"bf"
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

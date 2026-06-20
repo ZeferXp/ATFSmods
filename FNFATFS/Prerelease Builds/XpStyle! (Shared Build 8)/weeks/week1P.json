@@ -1,0 +1,36 @@
+{
+	"storyName": "Made for youtube",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "ruined",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Random",
+			"Trumpetdude",
+			[
+				255,
+				255,
+				15
+			]
+		],
+		[
+			"Ugh2",
+			"bfd",
+			[
+				86,
+				0,
+				173
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"trumpetdude"
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "TutorialYT"
+}

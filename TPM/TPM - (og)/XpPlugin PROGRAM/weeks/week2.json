@@ -1,0 +1,27 @@
+{
+	"storyName": "Get a real idea",
+	"difficulties": "googoogaga, Normal, regret",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"pico",
+		"",
+		"trumpetdude"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Menu",
+			"trumpetdude",
+			[
+				226,
+				255,
+				115
+			]
+		]
+	],
+	"weekName": "Week 2",
+	"hiddenUntilUnlocked": false
+}

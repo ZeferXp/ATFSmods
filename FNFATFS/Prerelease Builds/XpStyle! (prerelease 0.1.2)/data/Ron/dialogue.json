@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "dinkyron"
+		},
+		{
+			"expression": "talk",
+			"text": "hoo is dis",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "dinkyron"
+		},
+		{
+			"expression": "talk",
+			"text": "beepbeepbepgbepbpbepbpbepbpbeppopoppbobpooop bopbodpdopobdob",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "bro i said who r u",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "dinkyron"
+		},
+		{
+			"expression": "talk",
+			"text": "dats my boyfriend",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "woman, i didn't ask you...",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "dinkyron"
+		},
+		{
+			"expression": "talk",
+			"text": "NOW BEGONE!!!!",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "dinkyron"
+		},
+		{
+			"expression": "confused",
+			"text": "what did you do to my girl",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "I trapped her into the Diddy Party",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "dinkyron"
+		},
+		{
+			"expression": "shocked",
+			"text": "                                      ",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "noooooooooooooooooooooooooooooooo",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "do i care",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "dinkyron"
+		},
+		{
+			"expression": "talk",
+			"text": "can i have my woman back",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "no ",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "dinkyron"
+		},
+		{
+			"sound": "pop",
+			"speed": 0.05,
+			"portrait": "rez",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "hey dinky ron .w."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey yellow girl, that dinky dude took my girl to the diddy party"
+		},
+		{
+			"sound": "pop",
+			"speed": 0.05,
+			"portrait": "rez",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "just deal with it"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "dinkyron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "do the fridays of the nights funkin if you want a 0% higher than your already 0% chance of getting your girl back"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bet"
+		}
+	]
+}

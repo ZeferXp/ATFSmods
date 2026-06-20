@@ -1,0 +1,77 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		80
+	],
+	"no_antialiasing": false,
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-18,
+				-12
+			],
+			"loop_name": "Ugh",
+			"idle_name": "Ugh0000"
+		},
+		{
+			"loop_offsets": [
+				-55,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "Sing Up",
+			"idle_name": "Idle0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sing Left",
+			"idle_name": "Idle"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "Ugh",
+			"idle_name": "Idle"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "Idle",
+			"loop_name": "Sing Right"
+		}
+	],
+	"image": "Dinky Ron"
+}

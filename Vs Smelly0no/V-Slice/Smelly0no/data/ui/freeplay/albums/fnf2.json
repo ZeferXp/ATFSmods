@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "Fnf 2' UST",
+  "artists": [
+    "Jake The Artist"
+  ],
+  "albumArtAsset": "freeplay/albumRoll/fnf2",
+  "albumTitleAsset": "freeplay/albumRoll/fnf2-text",
+  "albumTitleOffsets": [-22, -3]
+}

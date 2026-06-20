@@ -1,0 +1,143 @@
+{
+	"animations": [
+		{
+			"offsets": [-2, -17],
+			"loop": true,
+			"anim": "scared",
+			"fps": 24,
+			"name": "GF FEAR",
+			"indices": []
+		},
+		{
+			"offsets": [3, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [1],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, -20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [16],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 4],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [19],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, -20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [5],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, -9],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [1, 2, 3, 4],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, -9],
+			"loop": false,
+			"fps": 24,
+			"anim": "hairFall",
+			"indices": [1, 2, 3, 4],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [45, -8],
+			"loop": true,
+			"fps": 24,
+			"anim": "hairBlow",
+			"indices": [0, 1, 2, 3],
+			"name": "gfDance0001"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [17],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [20],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [20],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [20],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [20],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [20],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, -9],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [0, 1, 2, 3, 4],
+			"name": "gfDance"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [1, 2, 3, 4],
+			"name": "gfDance"
+		}
+	],
+	"vocals_file": "Rez",
+	"no_antialiasing": false,
+	"image": "characters/Rez",
+	"position": [0, 40],
+	"healthicon": "Rez",
+	"flip_x": true,
+	"healthbar_colors": [255, 255, 0],
+	"camera_position": [-70, 70],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

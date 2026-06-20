@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		130
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				12,
+				-2
+			],
+			"idle_offsets": [
+				12,
+				-2
+			],
+			"loop_name": "RuvNormal",
+			"idle_name": "RuvNormal"
+		},
+		{
+			"loop_name": "RuvBruh",
+			"idle_offsets": [
+				12,
+				-2
+			],
+			"idle_name": "RuvBruh",
+			"anim": "bruh",
+			"loop_offsets": [
+				12,
+				-2
+			]
+		},
+		{
+			"loop_name": "RuvAngery",
+			"idle_offsets": [
+				12,
+				-2
+			],
+			"idle_name": "RuvAngery",
+			"anim": "angry",
+			"loop_offsets": [
+				12,
+				-2
+			]
+		}
+	],
+	"image": "mfmports"
+}
