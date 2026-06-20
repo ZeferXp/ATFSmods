@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="trumpet menu.png">
+<SubTexture name="trumpet menu idle\0000" x="0" y="0" width="3239" height="3172" frameX="-238" frameY="-621" frameWidth="4096" frameHeight="4096" />
+<SubTexture name="trumpet menu coolio0000" x="3239" y="0" width="3239" height="3172" frameX="-238" frameY="-621" frameWidth="4096" frameHeight="4096" />
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+	"speed": 1,
+	"stage": "stage",
+	"player1": "bf",
+	"player2": "trumpetdude",
+	"events": [],
+	"notes": [
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [
+				[0, 4, 0],
+				[0, 0, 0],
+				[214.285714285714, 5, 0],
+				[214.285714285714, 1, 0],
+				[428.571428571429, 4, 0],
+				[642.857142857143, 6, 0],
+				[642.857142857143, 2, 0],
+				[857.142857142857, 7, 0],
+				[857.142857142857, 3, 0],
+				[1285.71428571429, 0, 0],
+				[1500, 1, 0]
+			],
+			"bpm": 150,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"gfSection": false,
+			"altAnim": false,
+			"sectionNotes": [
+				[1714.28571428571, 0, 0],
+				[1928.57142857143, 2, 0],
+				[2142.85714285714, 3, 0]
+			],
+			"bpm": 150,
+			"sectionBeats": 4,
+			"changeBPM": false,
+			"mustHitSection": true
+		}
+	],
+	"gfVersion": "gf",
+	"format": "psych_v1",
+	"bpm": 140,
+	"needsVoices": false,
+	"song": "Random",
+	"offset": 0
+}
