@@ -1,0 +1,27 @@
+{
+	"storyName": "Leak? Leek? whatever...",
+	"difficulties": "Normal, Rr",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Triggered",
+			"icon- jamie",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Leeks",
+	"hiddenUntilUnlocked": false
+}

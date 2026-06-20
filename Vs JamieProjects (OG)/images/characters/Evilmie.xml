@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="Evilmie.png">
-<SubTexture name="Evilmie Normal0000" x="0" y="0" width="2106" height="2594" frameX="-292" frameY="0" frameWidth="2602" frameHeight="2594" />
-<SubTexture name="Evilmie Squosh0000" x="2858" y="0" width="2105" height="602" frameX="-292" frameY="0" frameWidth="2602" frameHeight="602" />
-<SubTexture name="Evilmie Strech0000" x="2106" y="0" width="752" height="2594" frameX="-100" frameY="0" frameWidth="925" frameHeight="2594" />
-<SubTexture name="Evilmie idle0000" x="2858" y="0" width="2105" height="602" frameX="-292" frameY="0" frameWidth="2602" frameHeight="602" />
-<SubTexture name="Evilmie idle0001" x="2858" y="0" width="2105" height="602" frameX="-292" frameY="0" frameWidth="2602" frameHeight="602" />
-<SubTexture name="Evilmie idle0002" x="0" y="0" width="2106" height="2594" frameX="-292" frameY="0" frameWidth="2602" frameHeight="2594" />
-</TextureAtlas>
